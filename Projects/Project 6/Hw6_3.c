@@ -85,4 +85,3 @@ void arraySubtraction(int size, int arr1[size][size], int arr2[size][size]){
         printf("\n");
     }
 }
-
